@@ -1,4 +1,4 @@
-# Forensic-fraud-detection
+# Fraud Investigation Forensic
 
 ## Overview
 The **Fraud Investigation Forensic Management System** is a comprehensive platform designed to manage and maintain forensic lab data, officer records, and suspect details efficiently. This system ensures secure data handling and streamlines forensic case management with **voice-based access control**.
